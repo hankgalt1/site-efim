@@ -254,7 +254,7 @@ var config = {
     parent: 'game-container',
     width: 1024,
     height: 1000,
-    zoom: 0.3,
+    zoom: 1,
     pixelArt: true,
     scene:[BootScene,
         WorldScene]
